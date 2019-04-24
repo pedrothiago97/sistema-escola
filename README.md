@@ -1,2 +1,2 @@
 # sistema-escola
-Sistema de Escola 
+Sistema de Escola simples com cadastro de alunos e professores
